@@ -1,7 +1,2 @@
 pgvector:v0.5.0
 mongo:5.0.18
-fastgpt:v4.7
-mysql:8.0.36
-one-api:latest
-m3e-large-api:latest
-chatgpt-on-wechat
